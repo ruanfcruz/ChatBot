@@ -1,0 +1,5 @@
+/workspaces/ChatBot/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ChatBot/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/ChatBot/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/ChatBot/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/ChatBot/obj/Debug/net8.0/app.sourcelink.json
